@@ -11,7 +11,7 @@ const Account = () => {
           <div className="flex items-center mb-6">
             <div className="relative mr-3">
               <img
-                src="src\assets\lphoto.jpg"
+                src="/lphoto.jpg"
                 alt="Profile"
                 className="rounded-full w-16 h-16 object-cover"
               />
